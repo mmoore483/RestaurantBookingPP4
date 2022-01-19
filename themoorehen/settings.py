@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'cloudinary',
     'phonenumber_field',
+    'django_summernote',
     'restaurant_booking',
 ]
 
